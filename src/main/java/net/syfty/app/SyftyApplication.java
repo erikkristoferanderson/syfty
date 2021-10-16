@@ -1,4 +1,4 @@
-package net.syfty.syfty;
+package net.syfty.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

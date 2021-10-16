@@ -1,0 +1,5 @@
+- sign up and login pages
+
+
+Stretch:
+- implement UUID instead of 1, 2, 3... for user id
