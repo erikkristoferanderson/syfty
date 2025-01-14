@@ -2,7 +2,7 @@
 
 Syfty is a Reddit notifications service.
 
-See the live site at [syfty.net](https://syfty.net)
+See the live site at [syfty.net](https://syfty.net) -- offline
 
 See the backend at this repo: [syfty-backend](https://github.com/ekand/syfty-backend)
 
